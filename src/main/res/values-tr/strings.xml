@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="play_services_require_update">Google play servisini güncellemeniz gerekmektedir. Güncellemek ister misiniz?</string>
+    <string name="play_services_not_exists">Uygulamanın çalışması için google play servisine ihtiyaç duymaktadır. Yüklemek ister misiniz?</string>
+    <string name="missing_play_store">Play store cihazınızda yüklü değil</string>
+
+    <string name="error">Hata</string>
+    <string name="ok">Tamam</string>
+    <string name="update">Güncelle</string>
+    <string name="cancel">Vazgeç</string>
+    <string name="close">Kapat</string>
+</resources>

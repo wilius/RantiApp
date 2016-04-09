@@ -1,0 +1,11 @@
+<resources>
+    <string name="play_services_require_update">Google play services need to update. Would you update it?</string>
+    <string name="play_services_not_exists">You have to install google play services to use application correctly. Would you install it?</string>
+    <string name="missing_play_store">Play store not available on your device</string>
+
+    <string name="error">Error</string>
+    <string name="ok">Ok</string>
+    <string name="update">Update</string>
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+</resources>
